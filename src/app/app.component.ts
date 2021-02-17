@@ -6,7 +6,6 @@ import { Component, HostListener } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'Angular';
 
   counter=0;
 
